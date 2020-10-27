@@ -4,7 +4,7 @@ Android 护眼app <br/>
 <br/>
 <img src="./imgs/img_result.png" width="540" height="1124">
 
-<img src="./imgs/img_result2.png" width="540" height="1124">
+<img src="./imgs/img_result2.jpeg" width="540" height="1124">
 
 <br/>
 <br/>
