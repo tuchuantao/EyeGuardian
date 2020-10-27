@@ -93,7 +93,7 @@ class GuardianService : Service() {
         .setSmallIcon(R.mipmap.ic_launcher)
         .setLargeIcon(BitmapFactory.decodeResource(resources, R.mipmap.ic_launcher))
         .setContentTitle(applicationContext.getString(R.string.app_name))
-        .setContentText("护眼通知内容")
+        .setContentText("前台Service的通知")
         .setWhen(System.currentTimeMillis())
         .setPriority(NotificationCompat.PRIORITY_DEFAULT)
 
